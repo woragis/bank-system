@@ -1,0 +1,3 @@
+[submodule "javafx-client"]
+	path = javafx-client
+	url = https://github.com/woragis/bank-system-javafx-client-submodule.git
